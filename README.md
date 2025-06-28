@@ -1,1 +1,1 @@
-# bio-llm
+# biodesign-mcp
